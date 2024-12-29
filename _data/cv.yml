@@ -48,6 +48,34 @@
         #     - Sub-description 1.
         #     - Sub-description 2.
 
+- title: Teaching Experience
+  type: time_table
+  contents:
+    - title: Assistant in Instruction
+      institution: Princeton University
+      year: 2020 - 2024
+      description:
+        - "Preceptor for COS 126 - Computer Science: An Interdisciplinary Approach (Spring 2023, Spring 2024)."
+        - "AI for ECE 453 - Optical and Quantum Electronics (Fall 2021)."
+        - "AI for ORF 363 / COS 323 - Computing and Optimization for the Physical and Social Sciences (Spring 2021, Spring 2022, Fall 2022)."
+        - "AI for MAT 340 - Applied Algebra (Fall 2020, Fall 2023)."
+    - title: Teaching Assistant
+      institution: University of Illinois Urbana-Champaign
+      year: 2017 - 2019
+      description:
+        - "Discussion TA for Physics 211 - University Physics: Mechanics (Spring 2019)."
+        - "Discussion TA for Physics 212 - University Physics: Elec & Mag (Fall 2018)."
+        - "Discussion TA for Physics 214 - University Physics: Quantum Physics (Summer 2018)."
+        - "Grader for Physics 569 - Emergent States of Matter (Spring 2018)."
+        - "Lab TA for Physics 212 -  University Physics: Elec & Mag (Fall 2017)."
+    - title: Teaching Assistant
+      institution: University of Pennsylvania
+      year: 2016 - 2017
+      description:
+        - "Recitation TA for Physics 102 - General Physics: Electromagnetism, Optics, and Modern Physics (Spring 2017 - Professor Douglas Durian)."
+        - "Grader for  Physics 401 - Thermodynamics (Fall 2016 - Professor Douglas Durian)."
+        - "Grader for  Physics 151 - Introduction to Electricity and Magnetism (Spring 2016 - Professor Joshua R. Klein)."
+
 
 # - title: Open Source Projects
 #   type: time_table
