@@ -24,4 +24,4 @@ I spent the majority of my time growing up in Philadelphia, PA. I went to elemen
 
 I included a real photo of me here. I won't name names, but some people like to upload anime pics as their profile pics, so included below is a Studio Ghibli style version of my real photo as nice middle ground between the two options.
 
-<img src="assets/img/prof_pic_ghibli.png" width="275" alt="Benjamin Strekha photo in Studio Ghibli style" style="float:right">
+<img src="assets/img/prof_pic_ghibli.png" width="273" alt="Benjamin Strekha photo in Studio Ghibli style" style="float:right">
