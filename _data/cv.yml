@@ -41,7 +41,7 @@ cv:
         highlights:
           - Designed new photonic devices and systems on chip operating at the quantum level [used Ansys FDTD, MODE (EME, FDE), HFSS, and Flexcompute Tidy3D].
           - Maintained an active library of components and internally developed photonic process design kits aimed at a photonic foundry (used GDSFactory, KLayout).
-          - Developed and ran automated data collection routines for large-scale wafer-level testing of photonic devices.
+          - Developed and ran automated data collection routines for a wafer prober for optical and electrical testing of photonic devices.
           - Performed statistical analysis on collected data and built confidence models of measured physical parameters of optoelectronic devices.
 
     Teaching:
