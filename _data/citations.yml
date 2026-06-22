@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-19'
+  last_updated: '2026-06-22'
 papers:
   pGFuIdUAAAAJ:9yKSN-GCB0IC:
     citations: 18
@@ -26,10 +26,10 @@ papers:
     title: Suppressing electromagnetic local density of states via slow light in lossy quasi-one-dimensional gratings
     year: '2024'
   pGFuIdUAAAAJ:u-x6o8ySG0sC:
-    citations: 94
+    citations: 95
     title: Physical limits in electromagnetism
     year: '2022'
   pGFuIdUAAAAJ:yB1At4FlUx8C:
-    citations: 7
+    citations: 8
     title: Maximum Shannon capacity of photonic structures
     year: '2026'
