@@ -80,7 +80,7 @@ cv:
 
     Interests:
       - name: Physics, Electrical Engineering, Optimization Theory
-        keywords: "computational photonics; numerical optimization; inverse design (topology optimization); performance limits; FDFD electromagnetic solver; fluctuational electrodynamics; photonic integrated circuits"
+        keywords: "integrated photonics; hardware automation; device characterization and validation; numerical optimization; inverse design (topology optimization); performance limits; FDFD/FDTD electromagnetic solver; fluctuational electrodynamics"
 
       - name: Hobbies
         keywords: "Brazilian Jiu Jitsu, Swimming, Reading, Museums"
